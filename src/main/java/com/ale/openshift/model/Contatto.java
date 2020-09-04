@@ -10,6 +10,7 @@ public class Contatto implements Serializable{
 	private String nome;
 	private String cognome;
 	private String username;
+	private int numbero;
 	
 	public Contatto() {		
 	}
